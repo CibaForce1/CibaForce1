@@ -14,10 +14,10 @@ My journey working as a fraud and risk expert in major financial technology comp
 | Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
 | Vulnerability Management                      | SOC Automation Lab|
 | Scripting and Automation                      | SOC Automation Lab|
-| OSINT                                         | SOC Automation Lab|
-| Report writing                                | SOC Automation Lab|
-| Collaboration                                 | SOC Automation Lab|
-| Visualiztaion & Data analysis                 | SOC Automation Lab|
+| OSINT                                         | 
+| Report writing                                | 
+| Collaboration                                 | 
+| Visualiztaion & Data analysis                 | 
 
 ## Tools
 
