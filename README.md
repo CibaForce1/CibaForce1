@@ -10,13 +10,14 @@ My journey working as a fraud and risk expert in major financial technology comp
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Configuration and Management             | <a href="https://google.com">Detection Lab</a>|
+| SIEM Configuration and Management             | <a href="https://github.com/CibaForce1/Building-a-SIEM-Lab-Elastic">Building a SIEM Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
 | Vulnerability Management                      | SOC Automation Lab|
 | Scripting and Automation                      | SOC Automation Lab|
 | OSINT                                         | 
 | Report writing                                | 
-| Collaboration                                 | 
+| Collaboration                                 |
+| Presentation and communication                | 
 | Visualiztaion & Data analysis                 | 
 
 ## Tools
@@ -62,6 +63,6 @@ My journey working as a fraud and risk expert in major financial technology comp
 </div>
 
 ## Projects
-- SIEM Implementation 
+- <a href="https://github.com/CibaForce1/Building-a-SIEM-Lab-Elastic">Building SIEM Lab</a> 
 - Incident Response Simulation
 - Vulnerability Assessment
