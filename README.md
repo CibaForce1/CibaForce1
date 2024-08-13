@@ -26,7 +26,6 @@ My journey working as a fraud and risk expert in major financial technology comp
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-NetworkMiner-1F2E4B?style=for-the-badge&logo=NetworkMiner&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-BRIM-0A2C66?style=for-the-badge&logo=BRIM&logoColor=white" />
 </div>
 
 ### Endpoint
