@@ -18,7 +18,7 @@ My journey working as a fraud and risk expert in major financial technology comp
 | Report writing                                | 
 | Collaboration                                 |
 | Presentation and communication                | 
-| Visualiztaion & Data analysis                 | 
+| Visualization & Data analysis                 | 
 
 ## Tools
 
