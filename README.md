@@ -11,9 +11,9 @@ My journey working as a fraud and risk expert in major financial technology comp
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Configuration and Management             | <a href="https://github.com/CibaForce1/Building-a-SIEM-Lab-Elastic">Building a SIEM Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://google.com">Detection Lab</a>|
-| Vulnerability Management                      | SOC Automation Lab|
-| Scripting and Automation                      | SOC Automation Lab|
+| Incident Response Planning and Execution      | <a href="https://medium.com/@Ciba_Force/incident-response-project-b3b0d1838645">Incident Response Simulation</a>|
+| Vulnerability Management                      | <a href="https://medium.com/@Ciba_Force/vulnerability-assessment-project-d3aaf11dc24c">Vulnerability Assessment</a>|
+| Scripting and Automation                      | <a href="https://medium.com/@Ciba_Force/incident-response-project-b3b0d1838645">Incident Response Simulation</a>|
 | OSINT                                         | 
 | Report writing                                | 
 | Collaboration                                 |
@@ -64,5 +64,5 @@ My journey working as a fraud and risk expert in major financial technology comp
 
 ## Projects
 - <a href="https://github.com/CibaForce1/Building-a-SIEM-Lab-Elastic">Building SIEM Lab</a> 
-- Incident Response Simulation
-- Vulnerability Assessment
+- <a href="https://medium.com/@Ciba_Force/incident-response-project-b3b0d1838645">Incident Response Simulation</a>
+- <a href="https://medium.com/@Ciba_Force/vulnerability-assessment-project-d3aaf11dc24c">Vulnerability Assessment</a>
