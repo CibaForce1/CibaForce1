@@ -54,6 +54,14 @@ My journey working as a fraud and risk expert in major financial technology comp
     <img src="https://img.shields.io/badge/-Volatility-6B6B6B?style=for-the-badge&logo=Volatility&logoColor=white" />
 </div>
 
+### Ticketing
+<div>
+    <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zendesk-0A6A6A?style=for-the-badge&logo=Zendesk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shortcut-F6C341?style=for-the-badge&logo=Shortcut&logoColor=000000" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/IBM_Cybersecurity_Analyst_Professional_Certificate-000000?style=for-the-badge&logo=IBM&logoColor=white" />
