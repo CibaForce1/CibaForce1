@@ -67,7 +67,7 @@ My journey working as a fraud and risk expert in major financial technology comp
 <img src="https://img.shields.io/badge/IBM_Cybersecurity_Analyst_Professional_Certificate-000000?style=for-the-badge&logo=IBM&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/TryHackMe_SOC_LEVEL1_Certificate-000000?style=for-the-badge&logo=TryHackMe&logoColor=white" />
-<img src="https://img.shields.io/badge/Security%2B_%28In_View%29-003A70?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/Security%2B-003A70?style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
