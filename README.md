@@ -1,7 +1,7 @@
 # Hello, I'm Joshua
 <a href="https://linkedin.com/in/joshua001"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I have over 4 years experience within the cybercrime domain, with a profound interest in technology and a strong dedication to solving complex problems.
+Currently with IBM, applying hands-on expertise in application security, threat detection, and incident response to safeguard enterprise systems. Strong track record of managing vulnerabilities, mitigating risks, and enhancing overall security posture through practical, real-world solutions.
 
 ## Objective
 My journey working as a fraud and risk expert in major financial technology companies across Europe and Africa led me to develop a passion for cybersecurity, I am now eager to transition into this field and help make the cyberworld safer.
