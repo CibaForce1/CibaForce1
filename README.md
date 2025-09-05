@@ -79,6 +79,8 @@ DevSecOps Engineer, applying hands-on expertise in application security, threat 
 <img src="https://img.shields.io/badge/Google_Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/TryHackMe_SOC_LEVEL1_Certificate-000000?style=for-the-badge&logo=TryHackMe&logoColor=white" />
 <img src="https://img.shields.io/badge/CompTIA_Security%2B-003A70?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-IBM%20Cloud%20DevSecOps%20Essentials%20v2-1261FE?&style=for-the-badge&logo=ibmcloud&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHackMe%20DevSecOps%20Certificate-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 </div>
 
 ## Projects
