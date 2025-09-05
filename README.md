@@ -1,7 +1,7 @@
 # Hello, I'm Joshua
 <a href="https://linkedin.com/in/joshua001"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Currently with IBM, applying hands-on expertise in application security, threat detection, and incident response to safeguard enterprise systems. Strong track record of managing vulnerabilities, mitigating risks, and enhancing overall security posture through practical, real-world solutions.
+DevSecOps Engineer, applying hands-on expertise in application security, threat detection, and incident response to safeguard enterprise systems. Strong track record of managing vulnerabilities, mitigating risks, and enhancing overall security posture through practical, real-world solutions.
 
 ## Skills
 
@@ -30,6 +30,8 @@ Currently with IBM, applying hands-on expertise in application security, threat 
 <div>
     <img src="https://img.shields.io/badge/-LIMACHARLIE-0A0A0A?style=for-the-badge&logo=LIMACHARLIE&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CrowdStrike-E30613?&style=for-the-badge&logo=crowdstrike&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SentinelOne-5D3FD3?&style=for-the-badge&logo=sentinelone&logoColor=white" />
 </div>
 
 ### SIEM
@@ -37,12 +39,24 @@ Currently with IBM, applying hands-on expertise in application security, threat 
     <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
 </div>
 
 ### Vulnerability Scanning
 <div>
     <img src="https://img.shields.io/badge/-Nessus-00C176?style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP%20ZAP-005571?&style=for-the-badge&logo=owasp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Twistlock-0076D6?&style=for-the-badge&logo=paloalto&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snyk-4C4A73?&style=for-the-badge&logo=snyk&logoColor=white" />
 </div>
+
+### Pipeline & Automation:
+<div>
+    <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=jenkins&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IBM%20SPS%20Toolchains-052FAD?&style=for-the-badge&logo=ibm&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tekton-FD495C?&style=for-the-badge&logo=tekton&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=white" />
+<div>
 
 ### Digital Forensics
 <div>
