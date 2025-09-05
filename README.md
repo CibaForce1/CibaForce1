@@ -3,9 +3,6 @@
 
 Currently with IBM, applying hands-on expertise in application security, threat detection, and incident response to safeguard enterprise systems. Strong track record of managing vulnerabilities, mitigating risks, and enhancing overall security posture through practical, real-world solutions.
 
-## Objective
-My journey working as a fraud and risk expert in major financial technology companies across Europe and Africa led me to develop a passion for cybersecurity, I am now eager to transition into this field and help make the cyberworld safer.
-
 ## Skills
 
 | Skill                                         | Associated Project         |
