@@ -65,6 +65,13 @@ DevSecOps Engineer, applying hands-on expertise in application security, threat 
     <img src="https://img.shields.io/badge/-Volatility-6B6B6B?style=for-the-badge&logo=Volatility&logoColor=white" />
 </div>
 
+### Scripting
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+<div>
+
 ### Ticketing
 <div>
     <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
