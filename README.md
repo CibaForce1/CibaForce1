@@ -11,11 +11,12 @@ DevSecOps Engineer, applying hands-on expertise in application security, threat 
 | Incident Response Planning and Execution      | <a href="https://medium.com/@Ciba_Force/incident-response-project-b3b0d1838645">Incident Response Simulation</a>|
 | Vulnerability Management                      | <a href="https://github.com/CibaForce1/Vulnerability-Assessment/blob/main/README.md">Vulnerability Assessment</a>|
 | Scripting and Automation                      | <a href="https://medium.com/@Ciba_Force/incident-response-project-b3b0d1838645">Incident Response Simulation</a>|
-| OSINT                                         | 
+| Pipeline Security                             | <a href="https://github.com/CibaForce1/DevSecOps-hardening">DeSecOps Hardening</a>|
 | Report writing                                | 
 | Collaboration                                 |
 | Presentation and communication                | 
 | Visualization & Data analysis                 | 
+| OSINT                                         | 
 
 ## Tools
 
@@ -94,3 +95,4 @@ DevSecOps Engineer, applying hands-on expertise in application security, threat 
 - <a href="https://github.com/CibaForce1/Building-a-SIEM-Lab-Elastic">Building SIEM Lab</a> 
 - <a href="https://medium.com/@Ciba_Force/incident-response-project-b3b0d1838645">Incident Response Simulation</a>
 - <a href="https://medium.com/@Ciba_Force/vulnerability-assessment-project-d3aaf11dc24c">Vulnerability Assessment</a>
+- <a href="https://github.com/CibaForce1/DevSecOps-hardening">DeSecOps Hardening</a>
