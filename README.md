@@ -22,6 +22,8 @@ DevSecOps Engineer, applying hands-on expertise in application security, threat 
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IBM%20Cloud-1261FE?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Red%20Hat%20OpenShift-EE0000?&style=for-the-badge&logo=redhatopenshift&logoColor=white" />
     <img src="https://img.shields.io/badge/-CloudTrail-FF9900?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-EventBridge-E7157B?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Lambda-FF9900?&style=for-the-badge&logoColor=white" />
@@ -37,7 +39,7 @@ DevSecOps Engineer, applying hands-on expertise in application security, threat 
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint Detection & Response
 <div>
     <img src="https://img.shields.io/badge/-LIMACHARLIE-0A0A0A?style=for-the-badge&logo=LIMACHARLIE&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
@@ -47,7 +49,7 @@ DevSecOps Engineer, applying hands-on expertise in application security, threat 
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Google_Chronicle-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_SecOps-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
@@ -59,14 +61,25 @@ DevSecOps Engineer, applying hands-on expertise in application security, threat 
     <img src="https://img.shields.io/badge/-OWASP%20ZAP-005571?&style=for-the-badge&logo=owasp&logoColor=white" />
     <img src="https://img.shields.io/badge/-Twistlock-0076D6?&style=for-the-badge&logo=paloalto&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snyk-4C4A73?&style=for-the-badge&logo=snyk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?&style=for-the-badge&logo=burpsuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys-ED2E26?&style=for-the-badge&logo=qualys&logoColor=white" />
 </div>
 
-### Pipeline & Automation:
+### CI/CD & Automation
 <div>
     <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=jenkins&logoColor=white" />
     <img src="https://img.shields.io/badge/-IBM%20SPS%20Toolchains-052FAD?&style=for-the-badge&logo=ibm&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tekton-FD495C?&style=for-the-badge&logo=tekton&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CircleCI-343434?&style=for-the-badge&logo=circleci&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ArgoCD-EF7B4D?&style=for-the-badge&logo=argo&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=ansible&logoColor=white" />
+</div>
+
+### Containers
+<div>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Podman-892CA0?&style=for-the-badge&logo=podman&logoColor=white" />
 </div>
 
 ### Digital Forensics
