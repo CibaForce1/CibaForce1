@@ -12,13 +12,23 @@ DevSecOps Engineer, applying hands-on expertise in application security, threat 
 | Vulnerability Management                      | <a href="https://github.com/CibaForce1/Vulnerability-Assessment/blob/main/README.md">Vulnerability Assessment</a>|
 | Scripting and Automation                      | <a href="https://medium.com/@Ciba_Force/incident-response-project-b3b0d1838645">Incident Response Simulation</a>|
 | Pipeline Security                             | <a href="https://github.com/CibaForce1/DevSecOps-hardening">DeSecOps Hardening</a>|
-| Report writing                                | 
-| Collaboration                                 |
-| Presentation and communication                | 
-| Visualization & Data analysis                 | 
-| OSINT                                         | 
+| Cloud Security Architecture (AWS)             | <a href="https://github.com/CibaForce1/aws-cloud-security-lab/blob/main/01-secure-architecture.md">Secure Three-Tier AWS Architecture</a>|
+| Network Segmentation & Least-Privilege IAM    | <a href="https://github.com/CibaForce1/aws-cloud-security-lab/blob/main/01-secure-architecture.md">Secure Three-Tier AWS Architecture</a>|
+| Cloud Threat Detection & Response             | <a href="https://github.com/CibaForce1/aws-cloud-security-lab/blob/main/02-threat-detection-response.md">Automated Threat Detection & Response</a>|
+| Security Validation & Evidence Reporting      | <a href="https://github.com/CibaForce1/aws-cloud-security-lab">AWS Cloud Security Lab</a>|
 
 ## Tools
+
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CloudTrail-FF9900?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-EventBridge-E7157B?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Lambda-FF9900?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IAM-DD344C?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VPC-8C4FFF?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Systems%20Manager-E7157B?&style=for-the-badge&logoColor=white" />
+</div>
 
 ### Network
 <div>
@@ -57,7 +67,7 @@ DevSecOps Engineer, applying hands-on expertise in application security, threat 
     <img src="https://img.shields.io/badge/-IBM%20SPS%20Toolchains-052FAD?&style=for-the-badge&logo=ibm&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tekton-FD495C?&style=for-the-badge&logo=tekton&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?&style=for-the-badge&logo=githubactions&logoColor=white" />
-<div>
+</div>
 
 ### Digital Forensics
 <div>
@@ -71,7 +81,7 @@ DevSecOps Engineer, applying hands-on expertise in application security, threat 
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
-<div>
+</div>
 
 ### Ticketing
 <div>
@@ -92,6 +102,7 @@ DevSecOps Engineer, applying hands-on expertise in application security, threat 
 </div>
 
 ## Projects
+- <a href="https://github.com/CibaForce1/aws-cloud-security-lab">AWS Cloud Security Lab</a> — secure three-tier architecture and automated threat detection
 - <a href="https://github.com/CibaForce1/Building-a-SIEM-Lab-Elastic">Building SIEM Lab</a> 
 - <a href="https://medium.com/@Ciba_Force/incident-response-project-b3b0d1838645">Incident Response Simulation</a>
 - <a href="https://medium.com/@Ciba_Force/vulnerability-assessment-project-d3aaf11dc24c">Vulnerability Assessment</a>
