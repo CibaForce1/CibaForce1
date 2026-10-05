@@ -24,12 +24,6 @@ DevSecOps Engineer, applying hands-on expertise in application security, threat 
     <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-IBM%20Cloud-1261FE?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Red%20Hat%20OpenShift-EE0000?&style=for-the-badge&logo=redhatopenshift&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CloudTrail-FF9900?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-EventBridge-E7157B?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Lambda-FF9900?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-IAM-DD344C?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VPC-8C4FFF?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Systems%20Manager-E7157B?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Network
@@ -116,7 +110,7 @@ DevSecOps Engineer, applying hands-on expertise in application security, threat 
 </div>
 
 ## Projects
-- <a href="https://github.com/CibaForce1/aws-cloud-security-lab">AWS Cloud Security Lab</a> — secure three-tier architecture and automated threat detection
+- <a href="https://github.com/CibaForce1/aws-cloud-security-lab">AWS Cloud Security Lab</a>
 - <a href="https://github.com/CibaForce1/Building-a-SIEM-Lab-Elastic">Building SIEM Lab</a> 
 - <a href="https://medium.com/@Ciba_Force/incident-response-project-b3b0d1838645">Incident Response Simulation</a>
 - <a href="https://medium.com/@Ciba_Force/vulnerability-assessment-project-d3aaf11dc24c">Vulnerability Assessment</a>
