@@ -106,6 +106,7 @@ DevSecOps Engineer, applying hands-on expertise in application security, threat 
 
 ## Certifications
 <div>
+<img src="https://img.shields.io/badge/AWS_Certified_Security_–_Specialty-232F3E?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/IBM_Cybersecurity_Analyst_Professional_Certificate-000000?style=for-the-badge&logo=IBM&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/TryHackMe_SOC_LEVEL1_Certificate-000000?style=for-the-badge&logo=TryHackMe&logoColor=white" />
